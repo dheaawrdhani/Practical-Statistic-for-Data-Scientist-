@@ -69,7 +69,7 @@ Kode dan dataset berasal dari repository resmi buku:
 
 > Bruce, P., Bruce, A., & Gedeck, P. *Practical Statistics for Data Scientists*. O'Reilly Media.
 
-Repository ini dibuat untuk tugas dan catatan belajar. Hak cipta buku dan kode aslinya tetap milik penulisnya. Penjelasan teori dalam bahasa Indonesia dibuat dengan bantuan LLM dan sebaiknya diperiksa kembali dengan buku.
+Repository ini dibuat untuk assignment 1 mata kuliah Deep Learning. Hak cipta buku dan kode aslinya tetap milik penulisnya. 
 
 ## Author
 Dhea Kusuma Wardhani
