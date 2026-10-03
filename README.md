@@ -73,5 +73,3 @@ Repository ini dibuat untuk tugas dan catatan belajar. Hak cipta buku dan kode a
 
 ## Author
 Dhea Kusuma Wardhani
-Computer Engineering
-Telkom University
